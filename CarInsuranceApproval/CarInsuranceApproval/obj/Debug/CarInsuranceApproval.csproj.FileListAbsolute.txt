@@ -1,0 +1,7 @@
+C:\Users\Jon Duea\OneDrive\Desktop\Basic_C#_Programs\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\CarInsuranceApproval.csproj.AssemblyReference.cache
+C:\Users\Jon Duea\OneDrive\Desktop\Basic_C#_Programs\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\CarInsuranceApproval.csproj.CoreCompileInputs.cache
+C:\Users\Jon Duea\OneDrive\Desktop\Basic_C#_Programs\CarInsuranceApproval\CarInsuranceApproval\bin\Debug\CarInsuranceApproval.exe.config
+C:\Users\Jon Duea\OneDrive\Desktop\Basic_C#_Programs\CarInsuranceApproval\CarInsuranceApproval\bin\Debug\CarInsuranceApproval.exe
+C:\Users\Jon Duea\OneDrive\Desktop\Basic_C#_Programs\CarInsuranceApproval\CarInsuranceApproval\bin\Debug\CarInsuranceApproval.pdb
+C:\Users\Jon Duea\OneDrive\Desktop\Basic_C#_Programs\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\CarInsuranceApproval.exe
+C:\Users\Jon Duea\OneDrive\Desktop\Basic_C#_Programs\CarInsuranceApproval\CarInsuranceApproval\obj\Debug\CarInsuranceApproval.pdb
