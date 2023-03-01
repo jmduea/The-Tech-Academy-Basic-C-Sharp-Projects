@@ -1,0 +1,7 @@
+C:\Users\Jon Duea\OneDrive\Desktop\Basic_C#_Programs\ArraySubmission\ArraySubmission\bin\Debug\ArraySubmission.exe.config
+C:\Users\Jon Duea\OneDrive\Desktop\Basic_C#_Programs\ArraySubmission\ArraySubmission\bin\Debug\ArraySubmission.exe
+C:\Users\Jon Duea\OneDrive\Desktop\Basic_C#_Programs\ArraySubmission\ArraySubmission\bin\Debug\ArraySubmission.pdb
+C:\Users\Jon Duea\OneDrive\Desktop\Basic_C#_Programs\ArraySubmission\ArraySubmission\obj\Debug\ArraySubmission.csproj.AssemblyReference.cache
+C:\Users\Jon Duea\OneDrive\Desktop\Basic_C#_Programs\ArraySubmission\ArraySubmission\obj\Debug\ArraySubmission.csproj.CoreCompileInputs.cache
+C:\Users\Jon Duea\OneDrive\Desktop\Basic_C#_Programs\ArraySubmission\ArraySubmission\obj\Debug\ArraySubmission.exe
+C:\Users\Jon Duea\OneDrive\Desktop\Basic_C#_Programs\ArraySubmission\ArraySubmission\obj\Debug\ArraySubmission.pdb
