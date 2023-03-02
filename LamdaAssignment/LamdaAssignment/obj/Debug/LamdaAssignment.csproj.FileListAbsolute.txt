@@ -1,0 +1,7 @@
+C:\Users\Jon Duea\OneDrive\Desktop\Basic_C#_Programs\LamdaAssignment\LamdaAssignment\bin\Debug\LamdaAssignment.exe.config
+C:\Users\Jon Duea\OneDrive\Desktop\Basic_C#_Programs\LamdaAssignment\LamdaAssignment\bin\Debug\LamdaAssignment.exe
+C:\Users\Jon Duea\OneDrive\Desktop\Basic_C#_Programs\LamdaAssignment\LamdaAssignment\bin\Debug\LamdaAssignment.pdb
+C:\Users\Jon Duea\OneDrive\Desktop\Basic_C#_Programs\LamdaAssignment\LamdaAssignment\obj\Debug\LamdaAssignment.csproj.AssemblyReference.cache
+C:\Users\Jon Duea\OneDrive\Desktop\Basic_C#_Programs\LamdaAssignment\LamdaAssignment\obj\Debug\LamdaAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Jon Duea\OneDrive\Desktop\Basic_C#_Programs\LamdaAssignment\LamdaAssignment\obj\Debug\LamdaAssignment.exe
+C:\Users\Jon Duea\OneDrive\Desktop\Basic_C#_Programs\LamdaAssignment\LamdaAssignment\obj\Debug\LamdaAssignment.pdb
