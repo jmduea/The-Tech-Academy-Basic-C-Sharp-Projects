@@ -10,17 +10,14 @@ namespace AbstractClassAssignment
         public string lastName { get; set; }
 
         // Add a method called SayName
-        public void SayName()
-        {
-            Console.WriteLine($"Name: {firstName} {lastName}");
-        }
+        public abstract void SayName();
     }
 
     // Define a class called Employee which inherits from the Person class
     class Employee : Person
     {
         // Implement the SayName method in the Employee class
-        public new void SayName()
+        public override void SayName()
         {
             Console.WriteLine($"Employee Name: {firstName} {lastName}");
         }
@@ -34,7 +31,7 @@ namespace AbstractClassAssignment
             Employee employee = new Employee
             {
                 firstName = "Sample",
-                lastName = "Student"
+                lastName = "Employee"
             };
 
             // Call the overridden SayName method on the Employee object, which will output the employee's name to the console
